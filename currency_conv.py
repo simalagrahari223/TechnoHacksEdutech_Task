@@ -1,5 +1,8 @@
 
-#task -2
+#Task2
+#TechnoHack Edutech
+#CurrencyConverter
+#Made by Simal Agrahari
 
 with open('test.text') as f:
 	lines = f.readlines()
