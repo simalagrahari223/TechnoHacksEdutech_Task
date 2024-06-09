@@ -1,3 +1,8 @@
+#Task3
+#TechnoHack Edutech
+#PasswordGenerator
+#Made by Simal Agrahari
+
 import string
 import random
 if __name__=="__main__":
