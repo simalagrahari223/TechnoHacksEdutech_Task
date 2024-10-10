@@ -4,7 +4,7 @@
 #CurrencyConverter
 #Made by Simal Agrahari
 
-with open('test.text') as f:
+with open('test.txt') as f:
 	lines = f.readlines()
 
 currencyDict = {}
